@@ -1,0 +1,3 @@
+# Since the XRMB data set is quite large (1 GiB ~), if you want to apply the data set,
+# please download the files from (https://home.ttic.edu/~klivescu/XRMB_data/full/README)
+# and put these two data files in the './Dataset' folder.
